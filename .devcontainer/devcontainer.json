@@ -1,7 +1,7 @@
 {
     "name": "gcloud",
     // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-    "image": "gcr.io/google.com/cloudsdktool/google-cloud-cli:debian",
+    "image": "gcr.io/google.com/cloudsdktool/google-cloud-cli:slim",
     //"image": "mcr.microsoft.com/devcontainers/universal",
     // "build": {
     //     "dockerfile": "Dockerfile"
